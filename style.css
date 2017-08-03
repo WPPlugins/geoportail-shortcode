@@ -1,0 +1,40 @@
+/* ———- Pour API Geoportail (Début) ———– */
+
+.gpControlInformation {
+height: 55px !important;
+}
+
+.gpLong, .gpLat {
+background-color: white !important;
+color: black !important;
+font-size: 100% !important;
+margin-top: 0px !important;
+margin-bottom: 5px !important;
+padding: 0 !important;
+width: 150px !important;
+}
+
+.gpSelectUnits {
+font-size: 90% !important;
+}
+
+.gpSelectProjections {
+font-size: 1.5em !important;
+}
+
+.gpControlGraphicScaleText1, .gpControlGraphicScaleText2 {
+font-size: 110% !important;
+color: black !important;
+}
+
+.gpControlCopyright {
+color: black !important;
+font-size: 100% !important;
+}
+
+.gpControlMousePosition {
+color: black !important;
+font-size: 1em !important;
+
+}
+/* ———- Pour API Geoportail (Fin) ———– */
